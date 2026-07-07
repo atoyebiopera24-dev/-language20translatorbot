@@ -1,5 +1,6 @@
 python-telegram-bot==20.7
 googletrans==4.0.0-rc1
-flask==3.0.0
+flask==2.3.3
 gunicorn==21.2.0
 requests==2.31.0
+typing-extensions==4.7.1
